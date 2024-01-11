@@ -1,0 +1,13 @@
+docker build -t imageemotion .
+
+docker run -it -p 4000:4000 -e PORT=4000 imageemotion
+
+open new terminal
+
+docker exec -it dazzling_williams /bin/bash
+
+dir
+
+python test.py
+
+if api4.py is modified, redo image 
