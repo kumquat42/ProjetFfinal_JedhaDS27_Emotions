@@ -6,9 +6,9 @@ Promo DataScience 27 - Jan.2024
 **Labeau Gregory, Remy Théo, Ghandri Firas, Morabit Youssef, Beraud Mélanie** 
 
 
-##Check out the demo !!! 2024_Presentation_video_EmoTycoon.webm  
+### Check out the demo !!! 2024_Presentation_video_EmoTycoon.webm  
 
-##Check out the presentation of the application during our DemoDay !!! 2024_EmoTycoon.pdf
+### Check out the presentation of the application during our DemoDay !!! 2024_EmoTycoon.pdf
 
 
 ## Directories:
@@ -41,6 +41,5 @@ frontend.py
 requirements.txt  
 youssef.h5  
 youssef.json  
-## Check out the application:.
-You need the api.py (application), streamlit, dockerfile.
+**Check out the application: You need the api.py (application), streamlit, dockerfile.**
 
