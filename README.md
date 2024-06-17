@@ -34,8 +34,13 @@ Modele_train.ipynb: Gradcam tests, ongoing.
 |Datasets_comparison.ipynb : Some EDA relative to the datasets.
 
 **Deployment**
-Empty file.
-
+Files necessary to run the application:  
+Dockerfile  
+api.py  
+frontend.py  
+requirements.txt  
+youssef.h5  
+youssef.json  
 ## Check out the application:.
 You need the api.py (application), streamlit, dockerfile.
 
