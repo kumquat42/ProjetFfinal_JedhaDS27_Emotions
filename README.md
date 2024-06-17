@@ -11,7 +11,7 @@ Promo DataScience 27 - Jan.2024
 ### Check out the presentation of the application during our DemoDay !!! 2024_EmoTycoon.pdf
 
 
-## Directories:  
+## Directories:  
 README.md  
 2024_Presentation_video_EmoTycoon.webm: Demo  
 2024_EmoTycoon.pdf: Presentation made in January 2024, DemoDay #49, at Jedha, Paris, France  
