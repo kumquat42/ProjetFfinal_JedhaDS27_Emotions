@@ -2,7 +2,7 @@
 
 Emotion detector on photos and videos for emotion sensibility disorders
 
-Promo Jedha Bootcamp Data Science & Engineering #27 - Jan.2024
+Promo Jedha Bootcamp Data Science & Engineering #27 - Jan.2024  
 **Labeau Gregory, Remy Théo, Ghandri Firas, Morabit Youssef, Beraud Mélanie** 
 
 
