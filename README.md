@@ -11,7 +11,7 @@ Promo DataScience 27 - Jan.2024
 ### Check out the presentation of the application during our DemoDay !!! 2024_EmoTycoon.pdf
 
 
-## Directories:
+## Directories:  
 README.md  
 2024_Presentation_video_EmoTycoon.webm: Demo  
 2024_EmoTycoon.pdf: Presentation made in January 2024, DemoDay #49, at Jedha, Paris, France  
@@ -33,7 +33,7 @@ Modele_train.ipynb: Gradcam tests, ongoing.
 |listeimage_scrap_en_ordre.ods : Liste of the 189 images
 |Datasets_comparison.ipynb : Some EDA relative to the datasets.
 
-**Deployment**
+**Deployment**  
 Files necessary to run the application:  
 Dockerfile  
 api.py  
