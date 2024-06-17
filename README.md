@@ -6,13 +6,22 @@ Promo DataScience 27 - Jan.2024
 **Labeau Gregory, Remy Théo, Ghandri Firas, Morabit Youssef, Beraud Mélanie** 
 
 
+**Check out the demo !!! 2024_Presentation_video_EmoTycoon.webm**  
+**Check out the presentation of the application during our DemoDay !!! 2024_EmoTycoon.pdf**
+
+
 ## Directories:
 README.md  
+2024_Presentation_video_EmoTycoon.webm: Demo  
+2024_EmoTycoon.pdf: Presentation made in January 2024, DemoDay #49, at Jedha, Paris, France  
+ 
 **Modèles**  
-Resnet50 on 7 classes: transfer learning from keras Resnet169 _ +/- Imagenet weights  
-model_Greg: model derived from Sanskar Hasija (https://www.kaggle.com/code/odins0n/emotion-detection): Notebook, graphs and predictions. 
-model_Youssef: home-made model: Notebook, graphs and predictions  
-model_Theo: home-made model: : Notebook, graphs and predictions
+Resnet50 on 7 classes: transfer learning from keras Resnet169 _ +/- Imagenet weights  -> not ok.
+model_Greg: model derived from Sanskar Hasija (https://www.kaggle.com/code/odins0n/emotion-detection): Notebook, graphs and predictions. -> not ok.  
+**model_Youssef: home-made model: Notebook, graphs and predictions -> The one used for the application**  
+model_Theo: home-made model: : Notebook, graphs and predictions -> not ok.  
+Comparison models.ods: brainstormng on model comparison.  
+Modele_train.ipynb: Gradcam tests, ongoing.
 
 **Datasets**  
 |FER2013 : Publicly available dataset already decomposed in train and test sets.  
